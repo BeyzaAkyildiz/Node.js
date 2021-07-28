@@ -25,7 +25,7 @@ open-source geliştiricileri tarafından yazılarak npmjs.com üzerine yüklenme
 -Sunucu tabanlı programlama dilleri gibi ek bir web sunucusuna (Apache HTTP, IIS, Nginx vb..) ihtiyaç duymamaktadır.
 
                                                   
---Node.js Kullanan Bazı Teknoloji Şirketleri:
+--Node.js kullanan bazı teknoloji şirketleri:
 ----------------------------------------------
 -Apple ,
 -Google ,
