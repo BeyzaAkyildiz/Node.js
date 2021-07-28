@@ -1,8 +1,9 @@
--Node.js-
+----Node.js---
 
 
 
 --Node.js nedir?
+-----------------
 
   Node.js Joyent tarafından 2009 yılında geliştirilmeye başlanmış bir platformudur. Node.js, JavaScript ile sunucu tarafında ağ bağlantılı uygulamalar yazabileceğimiz bir çalışma ortamıdır.
 Node.js uygulamaları genelde JavaScript dili kullanılarak geliştirilir. Google V8 JavaScript motorunu kullanarak betik dilini yorumlar ve içerisinde  dağıtılan kütüphaneler sayesinde ek bir
@@ -11,9 +12,11 @@ Node.js, JavaScript kodunu sadece tarayıcılarda değil bilgisayarda bağımsı
 uygulamaları için kullanılan bir teknoloji olmaktan çıkmış, Python gibi Java gibi programlama dilleri ile aynı kapasitelere ulaşmıştır.Javascript dilinin Node.js vasıtasıyla Back-end’e 
 taşınmasıyla artık sadece bir dil bilerek full-stack uygulama geliştirilebilmektedir. Son dönemlerde React gibi Javascript Front-End kütüphane ve framework’leri de ciddi seviyede popülerlik
 kazanmıştır.
-                                                  -----------------------------------------------------------------------
+
+
 
 --Node.js Neden bu kadar son dönemde popüler oldu?
+----------------------------------------------------
 
 -Yapılan anketlerde sevilen ve tercih edilen teknolojilerde Javascript ve Node.js en önlerde gelmektedir.
 
@@ -28,9 +31,9 @@ olarak göstermektedir.
 
 -Sunucu tabanlı programlama dilleri gibi ek bir web sunucusuna (Apache HTTP, IIS, Nginx vb..) ihtiyaç duymamasıdır.
 
-                                                   ------------------------------------------------------------------------
+                                                  
 --Node.js Kullanan Bazı Teknoloji Şirketleri:
-
+----------------------------------------------
 -Apple
 -Google
 -IBM
