@@ -1,0 +1,14 @@
+{
+  "name": "ilk_node.js_projem",
+  "version": "1.0.0",
+  "description": "ilk Node.js projem",
+  "main": "index.js",
+  "scripts": {
+    "test": "ilk yorum"
+  },
+  "author": "Beyza Akyıldız",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
