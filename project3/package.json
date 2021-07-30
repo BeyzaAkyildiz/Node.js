@@ -1,0 +1,14 @@
+{
+  "name": "project3",
+  "version": "1.0.0",
+  "description": "3. proje",
+  "main": "index3.js",
+  "scripts": {
+    "test": "3. proje"
+  },
+  "author": "Beyza Akyıldız",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
